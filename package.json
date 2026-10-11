@@ -1,0 +1,12 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "A simple NPM module to check for prime numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": ["prime", "checker", "math", "npm"],
+  "author": "",
+  "license": "ISC"
+}
